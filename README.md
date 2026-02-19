@@ -45,8 +45,8 @@ This app allows users to browse songs, like songs, manage playlists, and play mu
 
 ### 📱 Mobile View
 - Fully Responsive Layout
-- <img width="343" height="778" alt="Screenshot 2026-02-19 152103" src="https://github.com/user-attachments/assets/838edb96-1e6c-45c7-a2bf-05c4aae51e79" />
-<img width="351" height="770" alt="Screenshot 2026-02-19 152053" src="https://github.com/user-attachments/assets/fa06354d-2d8f-401c-8f8f-736dd1cc4316" />
+- <img width="343" height="778" alt="Screenshot 2026-02-19 152103" src="https://github.com/user-attachments/assets/838edb96-1e6c-45c7-a2bf-05c4aae51e79" /> <img width="351" height="770" alt="Screenshot 2026-02-19 152053" src="https://github.com/user-attachments/assets/fa06354d-2d8f-401c-8f8f-736dd1cc4316" />
+
 
 - Bottom Navigation Bar
 <img width="342" height="764" alt="Screenshot 2026-02-19 152110" src="https://github.com/user-attachments/assets/b98216f9-ec43-4a87-9668-8fcb850fa1ff" />
